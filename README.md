@@ -1,5 +1,5 @@
 
-# C-Python-Integration-for-SymNMF-K-Means-Clustering
+# C-Python-Integration-for-SymNMF-K-Means-Clustering READNE
 
 This project implements Symmetric Non-negative Matrix Factorization (SymNMF) and K-Means clustering algorithms. The implementation is divided into Python modules and corresponding C extension modules.
 
